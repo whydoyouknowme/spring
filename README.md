@@ -10,7 +10,10 @@ https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/
 
 https://square.github.io/okhttp/
 https://flywaydb.org/getstarted/
+https://www.projectlombok.org/setup/maven
 
 ##工具
 Git
+flyway
+lombok
 
