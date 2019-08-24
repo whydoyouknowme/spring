@@ -16,4 +16,7 @@ https://www.projectlombok.org/setup/maven
 Git
 flyway
 lombok
+interception
+
+Spring developer tools ctrl+shift+alt+?
 
