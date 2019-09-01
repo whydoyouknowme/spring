@@ -11,12 +11,14 @@ https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/
 https://square.github.io/okhttp/
 https://flywaydb.org/getstarted/
 https://www.projectlombok.org/setup/maven
+[拦截器](https://docs.spring.io/spring/docs/5.0.3.RELEASE/spring-framework-reference/web.html)
+[mybatis generator](http://www.mybatis.org/generator/)  mvn -Dmybatis.generator.overwrite=true mybatis-generator:generate
 
 ##工具
 Git
 flyway
 lombok
-interception
+interception拦截器
 
 Spring developer tools ctrl+shift+alt+?
 

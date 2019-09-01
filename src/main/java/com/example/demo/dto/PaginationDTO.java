@@ -17,12 +17,13 @@ public class PaginationDTO {
     private Integer totalPage;
     public void setPagination(Integer totalPage, Integer page) {
 
+
+
+        if(page > totalPage && totalPage != 0){
+            page = totalPage;
+        }
         if(page < 1){
             page = 1;
-        }
-
-        if(page > totalPage){
-            page = totalPage;
         }
 
         this.page = page;
